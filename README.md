@@ -1,4 +1,5 @@
 # Vertebral Lumen — UNIHIKER LED controller
+![A modified dress with a cyberpunk vertebrae](images/dress.jpg)
 
 This program drives a 36-pixel WS2812B strip down a wearable costume's sternum. It is split into three replaceable layers:
 
